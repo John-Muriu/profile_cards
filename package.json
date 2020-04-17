@@ -1,0 +1,22 @@
+{
+  "name": "login-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/John-Muriu/profile_cards.git"
+  },
+  "author": "John Muriu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/John-Muriu/profile_cards/issues"
+  },
+  "homepage": "https://github.com/John-Muriu/profile_cards",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
